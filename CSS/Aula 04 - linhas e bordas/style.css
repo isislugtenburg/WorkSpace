@@ -1,0 +1,28 @@
+#primeiraDiv{
+    /* grossura da borda / estilo borda / cor da borda */
+    border: 2px dashed #D2B48C;
+}
+#segundaDiv{
+    border: 10px dashed #CD5C5C;
+}
+/* iAjustando Largura e altura da imagem */
+img{
+    width: 800px; largura
+    height: 900px; altura
+}
+#foto1{
+    width: 800px;
+    height: 900px;
+}
+#foto2{
+    width: 500px;
+    height: 300px;
+}
+/* Imagem de fundo ultilizando atributo background-image */
+body{
+    background-image: url(img/imagem\ boni.jfif);
+    background-position: 600px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 500px 500px;
+}
