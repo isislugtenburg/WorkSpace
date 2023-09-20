@@ -1,4 +1,4 @@
-*{
+/* *{
 }
 #pai{
     font-size: 16px;
@@ -10,4 +10,17 @@ p{
     background-color: blueviolet;
     width: 50vw;
     height: 50vh;
+} */
+img{
+    width: 200px;
+    height: 200px;
+}
+#imagem1{
+    float: left;
+}
+#imagem2{
+    float: right;
+}
+#paragrafo1{
+    clear: none;
 }
