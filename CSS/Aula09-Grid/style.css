@@ -1,29 +1,6 @@
 #container{
     display:grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-}
-.item-1{
-    grid-area: div1;
-}
-.item-2{
-    grid-area: div2
-}
-.item-3{
-    grid-area: div3
-}
-.item-4{
-    grid-area: div4;
-}
-.item-5{
-    grid-area: div5;
-}
-.item-6{
-    grid-area: div6;
-}
-.item-7{
-    grid-area: div7;
-}
-.item-8{
-    grid-area: div8;
+    grid-template-columns: 100px;
+    grid-template-rows: 100px;
+    align-content: start;
 }
