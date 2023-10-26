@@ -1,0 +1,8 @@
+var nota1 = 10;
+var nota2 = 6;
+var nota3 = 7;
+var nota4 = 3;
+var somaDasNotas = nota1 + nota2 + nota3 + nota4;
+var media = somaDasNotas/4;
+
+console.log("A media do aluno é:" + media)
